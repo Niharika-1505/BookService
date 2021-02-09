@@ -1,0 +1,1 @@
+delete from book where author = 'SpallyaTest'

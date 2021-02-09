@@ -1,0 +1,1 @@
+INSERT INTO book (id, name, author, genre, description, price, published_year) VALUES (1000, 'Test Book', 'SpallyaTest', 'test', 'Test Book', 20.00, '2019');
